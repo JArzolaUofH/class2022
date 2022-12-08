@@ -1,1 +1,1 @@
-d
+Thank you for taking the time to read me, here we have homework_4 file that has the four lab code results from zybooks, 12.7, 12.9, 14.11, and 14.13 that were trialed and errored to code answers through python.
